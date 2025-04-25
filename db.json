@@ -1,0 +1,30 @@
+{
+    "users" :[
+
+{
+    "id": 1,
+    "name" :"Dhruvi Patel",
+    "username" : "Dhruvi",
+    "contactno":"7984812338",
+    "email":"dhruvi@gmail.com"
+
+  },
+  {
+    
+    "id": 2,
+    "name" :"Tisha Patel",
+    "username" : "Tisha",
+    "contactno":"8745789654",
+    "email":"tisha@gmail.com"
+  },
+  {
+    
+    "id": 3,
+    "name" :"Mansi Patel",
+    "username" : "Mansi",
+    "contactno":"9712008774",
+    "email":"mansi@gmail.com"
+  }
+]
+}
+ 
