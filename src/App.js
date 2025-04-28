@@ -11,7 +11,7 @@ import Test from './Components/Test.js';
 function App() {
   return (
   <>
-  {/* <BrowserRouter>
+  <BrowserRouter>
   <Routes>
     <Route path='/' element={<Home />}> </Route>
     <Route path='/create' element={<Create />}> </Route>
@@ -19,7 +19,7 @@ function App() {
     <Route path='/read/:id' element={<Read />}></Route>
 
   </Routes>
-  </BrowserRouter> */}
+  </BrowserRouter>
   <Test />
   </>
   );
